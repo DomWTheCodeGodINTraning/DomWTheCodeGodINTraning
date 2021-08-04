@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DomWTheCodeGodINTraning
-- 👀 I’m interested in HTML5 , CCS , Java Script and Python
+- 👀 I’m interested in HTML5 , CCS , Java Script & Python
 - 🌱 I’m currently learning HTML5
 - 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me dominicawhaley@gmail.com
